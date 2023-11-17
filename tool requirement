@@ -1,0 +1,7 @@
+# python3.10
+# pip
+# uvicorn
+# fastapi
+# sqlalchemy
+# psycopg2-binary
+# virtaul environment
